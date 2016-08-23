@@ -28,14 +28,14 @@ def f2h(s):
 
 
 if __name__ == '__main__':
-#    fi = file('d:/_RTN_V6R7C00/rst/959')
+#    fi = file('d:/959')
 #    for eachline in fi:
 #        if eachline.startswith('[1888]'):
 #            print eachline[:-1]
 
 
     """find string from java source code"""
-    basepath = 'D:/__P/PGo/decompiled-classes-dex2jar-w3'
+    basepath = 'D:/decompiled-classes-dex2jar'
     pathlist = list()
     pathlist.append(basepath)
     text = 'setLatitude'
@@ -55,7 +55,7 @@ if __name__ == '__main__':
         else:
             print 'INTERNAL ERROR'
     
-#    fi = file('d:/l00220779/ReceiveFile/1.csv','rb')
+#    fi = file('d:/1.csv','rb')
 #    import csv
 #    reader = csv.reader(fi)
 #    idx = 0
