@@ -1,0 +1,24 @@
+#    fi = file('d:/tmp.t')
+#    data = 1
+#    for eachline in fi:
+#        data = eachline[:len(eachline)-1]
+#    fi.close()
+#    data = data[2:-2]
+#    data = data.split('","')
+#    #reload(sys)
+#    #sys.setdefaultencoding('gbk')
+#    print len(data)
+#    
+#    alldata = list()
+#    for ele in data:
+#        tmp = dict()
+#        ele = ele.split(',')
+#        tmp['num'] = ele[0]
+#        tmp['name'] = ele[1]
+#        alldata.append(tmp)
+#    
+#    alldata = json.dumps(alldata)
+#    print len(alldata)
+#    fi = file('d:/json', 'w')
+#    fi.write(alldata)
+#    fi.close()
