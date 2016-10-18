@@ -37,6 +37,8 @@ def writeStock(stocks, filename):
 
 def readStock(stocks, filename):
     """@stocks: return as json"""
+    """struct of stocks:
+       [{stock_number1, stock_name1}, {stock_number2, stock_name2},...]"""
     fi = file(filename, 'r')
     stocks = fi.read()
     fi.close()
