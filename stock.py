@@ -18,6 +18,7 @@ def getStocks(url, useproxy = False, proxy_url=''):
         data = response.read()
     else:
         proxy=urlparse.urlparse(proxy_url)
+	#TODO: 
     data = data.split('[')[1].split(']')[0][1:-1]
     data = data.split('","')
     stocks=list()
