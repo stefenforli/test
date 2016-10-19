@@ -44,7 +44,7 @@ def writeStock2mongo(stocks, client, dbname='test', collectionname='stockstest')
     return True
 	
 	
-def readStock(stocks, filename):
+def readStock(filename):
     """@stocks: return as json"""
     """struct of stocks:
     [{stock_number1,stock_name1}, {stock_number2,stock_name2},...]"""
