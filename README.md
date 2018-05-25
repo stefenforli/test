@@ -34,3 +34,5 @@ https://dw.uptodown.com/dwn/0yHfesZrl5TLbRaj_CpiWKG7HkJ8xCBzwcwzZnW-nQo8gurI7UdK
 https://voice.mozilla.org/
 
 https://storage.googleapis.com/openimages/web/index.html
+
+https://developers.google.cn/machine-learning/rules-of-ml/
