@@ -39,3 +39,6 @@ https://developers.google.cn/machine-learning/rules-of-ml/
 
 
 https://www.wumpus-cave.net/2015/11/06/low-latency-fpv-streaming-with-the-raspberry-pi/
+
+
+https://dji.retroroms.info/howto/dji_configs
