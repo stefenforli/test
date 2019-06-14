@@ -42,3 +42,13 @@ https://www.wumpus-cave.net/2015/11/06/low-latency-fpv-streaming-with-the-raspbe
 
 
 https://dji.retroroms.info/howto/dji_configs
+
+Memcached+SASL	>=1.4.3
+Elasticsearch	2.3.4
+NGINX	
+httpd	
+tomcat	
+Appache https server	
+MySQL 	5.6
+Redis	
+Postgresql	
