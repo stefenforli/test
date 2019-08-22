@@ -44,3 +44,5 @@ https://www.wumpus-cave.net/2015/11/06/low-latency-fpv-streaming-with-the-raspbe
 https://dji.retroroms.info/howto/dji_configs
 
 https://www-eu.apache.org/dist/camel/apache-camel/3.0.0-M4/apache-camel-3.0.0-M4.tar.gz
+
+https://software.intel.com/sites/landingpage/IntrinsicsGuide/#expand=2457,3149,3831,3828,3150,2429,2431,2437,2438&techs=SSE
