@@ -48,4 +48,4 @@ https://www-eu.apache.org/dist/camel/apache-camel/3.0.0-M4/apache-camel-3.0.0-M4
 https://software.intel.com/sites/landingpage/IntrinsicsGuide/#expand=2457,3149,3831,3828,3150,2429,2431,2437,2438&techs=SSE
 
 
-https://software.intel.com/en-us/protected-download/739797/493768/step2
+https://software.intel.com/en-us/articles/intelr-memory-latency-checker
