@@ -1,0 +1,4 @@
+cpu : geekbench\unixbench\speccpu2007
+cpu delay : rt-tests
+mem : stream\lmbench\mlc
+
